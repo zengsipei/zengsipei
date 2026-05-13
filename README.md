@@ -24,6 +24,9 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#4](https://github.com/Battam1111/Myco/issues/4) in [Battam1111/Myco](https://github.com/Battam1111/Myco)
+2. ℹ️ Labeled issue [#4](https://github.com/Battam1111/Myco/issues/4) in [Battam1111/Myco](https://github.com/Battam1111/Myco)
+3. ❗ Opened issue [#4](https://github.com/Battam1111/Myco/issues/4) in [Battam1111/Myco](https://github.com/Battam1111/Myco)
 <!--END_SECTION:activity-->
 
 ---
