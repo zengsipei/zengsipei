@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+1. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
 2. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
-3. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
-4. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
-5. 🍴 Forked [mattpocock/skills](https://github.com/mattpocock/skills)
-6. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-7. ⭐ Starred [larksuite/cli](https://github.com/larksuite/cli)
-8. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
-9. ⭐ Starred [SkillNerds/xskill](https://github.com/SkillNerds/xskill)
-10. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+3. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+4. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+5. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+6. 🍴 Forked [mattpocock/skills](https://github.com/mattpocock/skills)
+7. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+8. ⭐ Starred [larksuite/cli](https://github.com/larksuite/cli)
+9. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
+10. ⭐ Starred [SkillNerds/xskill](https://github.com/SkillNerds/xskill)
 <!--END_SECTION:activity-->
 
 ---
