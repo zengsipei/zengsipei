@@ -24,9 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/Battam1111/Myco/issues/4) in [Battam1111/Myco](https://github.com/Battam1111/Myco)
-2. ℹ️ Labeled issue [#4](https://github.com/Battam1111/Myco/issues/4) in [Battam1111/Myco](https://github.com/Battam1111/Myco)
-3. ❗ Opened issue [#4](https://github.com/Battam1111/Myco/issues/4) in [Battam1111/Myco](https://github.com/Battam1111/Myco)
+1. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+2. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+3. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+4. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+5. 🍴 Forked [mattpocock/skills](https://github.com/mattpocock/skills)
+6. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+7. ⭐ Starred [larksuite/cli](https://github.com/larksuite/cli)
+8. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
+9. ⭐ Starred [SkillNerds/xskill](https://github.com/SkillNerds/xskill)
+10. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
 <!--END_SECTION:activity-->
 
 ---
