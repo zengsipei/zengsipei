@@ -12,6 +12,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          MAX_LINES: 10
+          EVENTS: PushEvent,CreateEvent,PullRequestEvent,IssuesEvent,IssueCommentEvent,ReleaseEvent,ForkEvent,WatchEvent,PublicEvent
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
