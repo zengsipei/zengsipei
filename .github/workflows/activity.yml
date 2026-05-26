@@ -11,11 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@master
-        with:
-          MAX_LINES: 10
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update activity
+        run: node .github/scripts/update-activity.js
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
