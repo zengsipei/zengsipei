@@ -24,18 +24,21 @@ function formatEvent(event) {
 
   switch (type) {
     case 'PushEvent':
-      const commits = event.payload.commits.length;
+      const commits = event.payload.commits?.length || 0;
+      if (commits === 0) return null;
       return `⬆️ Pushed ${commits} commit${commits > 1 ? 's' : ''} to [${repo}](https://github.com/${repo})`;
     case 'CreateEvent':
       const refType = event.payload.ref_type;
       return `🎉 Created ${refType} in [${repo}](https://github.com/${repo})`;
     case 'IssuesEvent':
       const action = event.payload.action;
-      const issueNum = event.payload.issue.number;
+      const issueNum = event.payload.issue?.number;
+      if (!issueNum) return null;
       return `${action === 'opened' ? '❗' : '🔒'} ${action.charAt(0).toUpperCase() + action.slice(1)} issue [#${issueNum}](https://github.com/${repo}/issues/${issueNum}) in [${repo}](https://github.com/${repo})`;
     case 'PullRequestEvent':
       const prAction = event.payload.action;
-      const prNum = event.payload.pull_request.number;
+      const prNum = event.payload.pull_request?.number;
+      if (!prNum) return null;
       return `🔀 ${prAction.charAt(0).toUpperCase() + prAction.slice(1)} PR [#${prNum}](https://github.com/${repo}/pull/${prNum}) in [${repo}](https://github.com/${repo})`;
     case 'ForkEvent':
       return `🍴 Forked [${repo}](https://github.com/${repo})`;
