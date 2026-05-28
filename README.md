@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [aahl/tgnas](https://github.com/aahl/tgnas)
-2. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-3. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
-4. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
-5. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
-6. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
-7. 🍴 Forked [mattpocock/skills](https://github.com/mattpocock/skills)
-8. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-9. ⭐ Starred [larksuite/cli](https://github.com/larksuite/cli)
-10. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
+1. 🍴 Forked [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+2. ⭐ Starred [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+3. ⭐ Starred [aahl/tgnas](https://github.com/aahl/tgnas)
+4. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+5. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+6. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+7. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+8. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+9. 🍴 Forked [mattpocock/skills](https://github.com/mattpocock/skills)
+10. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
 <!--END_SECTION:activity-->
 
 ---
