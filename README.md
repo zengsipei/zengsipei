@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
-2. ⭐ Starred [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
-3. ⭐ Starred [aahl/tgnas](https://github.com/aahl/tgnas)
-4. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-5. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+1. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+2. 🍴 Forked [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+3. ⭐ Starred [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+4. ⭐ Starred [aahl/tgnas](https://github.com/aahl/tgnas)
+5. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
 6. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
-7. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
-8. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
-9. 🍴 Forked [mattpocock/skills](https://github.com/mattpocock/skills)
-10. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+7. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+8. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+9. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+10. 🍴 Forked [mattpocock/skills](https://github.com/mattpocock/skills)
 <!--END_SECTION:activity-->
 
 ---
