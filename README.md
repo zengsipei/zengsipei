@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [AtlantisYuki/prompt](https://github.com/AtlantisYuki/prompt)
-2. ⭐ Starred [tiann/hapi](https://github.com/tiann/hapi)
-3. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-4. 🍴 Forked [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
-5. ⭐ Starred [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
-6. ⭐ Starred [aahl/tgnas](https://github.com/aahl/tgnas)
-7. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-8. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
-9. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
-10. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
+1. 🔀 Merged PR [#1](https://github.com/AtlantisYuki/prompt/pull/1) in [AtlantisYuki/prompt](https://github.com/AtlantisYuki/prompt)
+2. 🔀 Opened PR [#1](https://github.com/AtlantisYuki/prompt/pull/1) in [AtlantisYuki/prompt](https://github.com/AtlantisYuki/prompt)
+3. 🎉 Created branch in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+4. 🍴 Forked [AtlantisYuki/prompt](https://github.com/AtlantisYuki/prompt)
+5. ⭐ Starred [tiann/hapi](https://github.com/tiann/hapi)
+6. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+7. 🍴 Forked [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+8. ⭐ Starred [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+9. ⭐ Starred [aahl/tgnas](https://github.com/aahl/tgnas)
+10. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
 <!--END_SECTION:activity-->
 
 ---
