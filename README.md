@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [tiann/hapi](https://github.com/tiann/hapi)
-2. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-3. 🍴 Forked [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
-4. ⭐ Starred [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
-5. ⭐ Starred [aahl/tgnas](https://github.com/aahl/tgnas)
-6. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
-7. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+1. 🍴 Forked [AtlantisYuki/prompt](https://github.com/AtlantisYuki/prompt)
+2. ⭐ Starred [tiann/hapi](https://github.com/tiann/hapi)
+3. ⭐ Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+4. 🍴 Forked [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+5. ⭐ Starred [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+6. ⭐ Starred [aahl/tgnas](https://github.com/aahl/tgnas)
+7. ⭐ Starred [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
 8. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
-9. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
-10. ⭐ Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
+9. 🎉 Created branch in [zengsipei/feishu-agent-team-lite](https://github.com/zengsipei/feishu-agent-team-lite)
+10. ⭐ Starred [agentskills/agentskills](https://github.com/agentskills/agentskills)
 <!--END_SECTION:activity-->
 
 ---
