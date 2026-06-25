@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Unlabeled issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
-2. 🔒 Closed issue [#6](https://github.com/zengsipei/dev-container-template/issues/6) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
-3. 🔒 Labeled issue [#15](https://github.com/zengsipei/prompt/issues/15) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-4. 🔒 Closed issue [#7](https://github.com/zengsipei/prompt/issues/7) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-5. 🔒 Labeled issue [#14](https://github.com/zengsipei/prompt/issues/14) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-6. 🔒 Labeled issue [#13](https://github.com/zengsipei/prompt/issues/13) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-7. 🔒 Labeled issue [#8](https://github.com/zengsipei/prompt/issues/8) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-8. 🔒 Labeled issue [#7](https://github.com/zengsipei/prompt/issues/7) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-9. 🔀 Merged PR [#7](https://github.com/zengsipei/dev-container-template/pull/7) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
-10. 🔒 Closed issue [#2](https://github.com/zengsipei/dev-container-template/issues/2) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+1. ❗ Opened issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+2. 🔀 Reopened PR [#6](https://github.com/zengsipei/prompt/pull/6) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+3. ⭐ Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+4. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+5. 🔒 Unlabeled issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+6. 🔒 Closed issue [#6](https://github.com/zengsipei/dev-container-template/issues/6) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+7. 🔒 Labeled issue [#15](https://github.com/zengsipei/prompt/issues/15) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+8. 🔒 Closed issue [#7](https://github.com/zengsipei/prompt/issues/7) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+9. 🔒 Labeled issue [#14](https://github.com/zengsipei/prompt/issues/14) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+10. 🔒 Labeled issue [#13](https://github.com/zengsipei/prompt/issues/13) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
 <!--END_SECTION:activity-->
 
 ---
