@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [avibe-bot/avibe](https://github.com/avibe-bot/avibe)
-2. 🔒 Closed issue [#4](https://github.com/zengsipei/prompt/issues/4) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-3. ❗ Opened issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
-4. 🔀 Reopened PR [#6](https://github.com/zengsipei/prompt/pull/6) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-5. ⭐ Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-6. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-7. 🔒 Unlabeled issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
-8. 🔒 Closed issue [#6](https://github.com/zengsipei/dev-container-template/issues/6) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
-9. 🔒 Labeled issue [#15](https://github.com/zengsipei/prompt/issues/15) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-10. 🔒 Closed issue [#7](https://github.com/zengsipei/prompt/issues/7) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+1. 🔒 Closed issue [#11](https://github.com/zengsipei/prompt/issues/11) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+2. 🔒 Closed issue [#10](https://github.com/zengsipei/prompt/issues/10) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+3. 🔒 Closed issue [#9](https://github.com/zengsipei/prompt/issues/9) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+4. ⭐ Starred [avibe-bot/avibe](https://github.com/avibe-bot/avibe)
+5. 🔒 Closed issue [#4](https://github.com/zengsipei/prompt/issues/4) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+6. ❗ Opened issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+7. 🔀 Reopened PR [#6](https://github.com/zengsipei/prompt/pull/6) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+8. ⭐ Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+9. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+10. 🔒 Unlabeled issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
 <!--END_SECTION:activity-->
 
 ---
