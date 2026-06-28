@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
-2. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-3. ⭐ Starred [agentrq/agentrq](https://github.com/agentrq/agentrq)
-4. 🔒 Closed issue [#11](https://github.com/zengsipei/prompt/issues/11) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-5. 🔒 Closed issue [#10](https://github.com/zengsipei/prompt/issues/10) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-6. 🔒 Closed issue [#9](https://github.com/zengsipei/prompt/issues/9) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-7. ⭐ Starred [avibe-bot/avibe](https://github.com/avibe-bot/avibe)
-8. 🔒 Closed issue [#4](https://github.com/zengsipei/prompt/issues/4) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-9. ❗ Opened issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
-10. 🔀 Reopened PR [#6](https://github.com/zengsipei/prompt/pull/6) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+1. 🔒 Closed issue [#13](https://github.com/zengsipei/prompt/issues/13) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+2. 🔒 Closed issue [#12](https://github.com/zengsipei/prompt/issues/12) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+3. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
+4. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+5. ⭐ Starred [agentrq/agentrq](https://github.com/agentrq/agentrq)
+6. 🔒 Closed issue [#11](https://github.com/zengsipei/prompt/issues/11) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+7. 🔒 Closed issue [#10](https://github.com/zengsipei/prompt/issues/10) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+8. 🔒 Closed issue [#9](https://github.com/zengsipei/prompt/issues/9) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+9. ⭐ Starred [avibe-bot/avibe](https://github.com/avibe-bot/avibe)
+10. 🔒 Closed issue [#4](https://github.com/zengsipei/prompt/issues/4) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
 <!--END_SECTION:activity-->
 
 ---
