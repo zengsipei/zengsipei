@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [liliMozi/openhanako](https://github.com/liliMozi/openhanako)
-2. 🔒 Closed issue [#13](https://github.com/zengsipei/prompt/issues/13) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-3. 🔒 Closed issue [#12](https://github.com/zengsipei/prompt/issues/12) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-4. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
-5. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-6. ⭐ Starred [agentrq/agentrq](https://github.com/agentrq/agentrq)
-7. 🔒 Closed issue [#11](https://github.com/zengsipei/prompt/issues/11) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-8. 🔒 Closed issue [#10](https://github.com/zengsipei/prompt/issues/10) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-9. 🔒 Closed issue [#9](https://github.com/zengsipei/prompt/issues/9) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-10. ⭐ Starred [avibe-bot/avibe](https://github.com/avibe-bot/avibe)
+1. ⭐ Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+2. ⭐ Starred [liliMozi/openhanako](https://github.com/liliMozi/openhanako)
+3. 🔒 Closed issue [#13](https://github.com/zengsipei/prompt/issues/13) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+4. 🔒 Closed issue [#12](https://github.com/zengsipei/prompt/issues/12) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+5. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
+6. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+7. ⭐ Starred [agentrq/agentrq](https://github.com/agentrq/agentrq)
+8. 🔒 Closed issue [#11](https://github.com/zengsipei/prompt/issues/11) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+9. 🔒 Closed issue [#10](https://github.com/zengsipei/prompt/issues/10) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+10. 🔒 Closed issue [#9](https://github.com/zengsipei/prompt/issues/9) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
 <!--END_SECTION:activity-->
 
 ---
