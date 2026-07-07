@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/zengsipei/prompt/issues/17) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-2. 🔒 Closed issue [#16](https://github.com/zengsipei/prompt/issues/16) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-3. 🔒 Closed issue [#8](https://github.com/zengsipei/prompt/issues/8) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-4. 🔒 Closed issue [#14](https://github.com/zengsipei/prompt/issues/14) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-5. ⭐ Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
-6. ⭐ Starred [liliMozi/openhanako](https://github.com/liliMozi/openhanako)
-7. 🔒 Closed issue [#13](https://github.com/zengsipei/prompt/issues/13) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-8. 🔒 Closed issue [#12](https://github.com/zengsipei/prompt/issues/12) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
-9. ⭐ Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
-10. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+1. 🔀 Merged PR [#9](https://github.com/zengsipei/dev-container-template/pull/9) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+2. 🔒 Closed issue [#8](https://github.com/zengsipei/dev-container-template/issues/8) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+3. 🔀 Opened PR [#9](https://github.com/zengsipei/dev-container-template/pull/9) in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+4. 🎉 Created branch in [zengsipei/dev-container-template](https://github.com/zengsipei/dev-container-template)
+5. 🔒 Closed issue [#17](https://github.com/zengsipei/prompt/issues/17) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+6. 🔒 Closed issue [#16](https://github.com/zengsipei/prompt/issues/16) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+7. 🔒 Closed issue [#8](https://github.com/zengsipei/prompt/issues/8) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+8. 🔒 Closed issue [#14](https://github.com/zengsipei/prompt/issues/14) in [zengsipei/prompt](https://github.com/zengsipei/prompt)
+9. ⭐ Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+10. ⭐ Starred [liliMozi/openhanako](https://github.com/liliMozi/openhanako)
 <!--END_SECTION:activity-->
 
 ---
