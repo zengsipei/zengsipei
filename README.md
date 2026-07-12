@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#11](https://github.com/zengsipei/ZAgent/issues/11) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-2. ❗ Opened issue [#11](https://github.com/zengsipei/ZAgent/issues/11) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-3. 🔒 Labeled issue [#10](https://github.com/zengsipei/ZAgent/issues/10) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-4. ❗ Opened issue [#10](https://github.com/zengsipei/ZAgent/issues/10) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-5. 🔒 Labeled issue [#9](https://github.com/zengsipei/ZAgent/issues/9) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-6. ❗ Opened issue [#9](https://github.com/zengsipei/ZAgent/issues/9) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-7. 🔒 Closed issue [#4](https://github.com/zengsipei/ZAgent/issues/4) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-8. 🔒 Closed issue [#3](https://github.com/zengsipei/ZAgent/issues/3) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-9. 🔒 Closed issue [#1](https://github.com/zengsipei/ZAgent/issues/1) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-10. 🔒 Closed issue [#2](https://github.com/zengsipei/ZAgent/issues/2) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+1. 🔒 Assigned issue [#6](https://github.com/zengsipei/z-cc-plugin/issues/6) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+2. 🔒 Closed issue [#8](https://github.com/zengsipei/z-cc-plugin/issues/8) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+3. 🔒 Assigned issue [#8](https://github.com/zengsipei/z-cc-plugin/issues/8) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+4. 🔒 Labeled issue [#11](https://github.com/zengsipei/z-cc-plugin/issues/11) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+5. ❗ Opened issue [#11](https://github.com/zengsipei/z-cc-plugin/issues/11) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+6. 🔒 Labeled issue [#10](https://github.com/zengsipei/z-cc-plugin/issues/10) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+7. ❗ Opened issue [#10](https://github.com/zengsipei/z-cc-plugin/issues/10) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+8. 🔒 Labeled issue [#9](https://github.com/zengsipei/z-cc-plugin/issues/9) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+9. ❗ Opened issue [#9](https://github.com/zengsipei/z-cc-plugin/issues/9) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+10. 🔒 Labeled issue [#8](https://github.com/zengsipei/z-cc-plugin/issues/8) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
 <!--END_SECTION:activity-->
 
 ---
