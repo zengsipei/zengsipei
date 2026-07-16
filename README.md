@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/zengsipei/z-cc-plugin/issues/11) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
-2. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
-3. 🔒 Closed issue [#5](https://github.com/zengsipei/z-cc-plugin/issues/5) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
-4. 🔒 Assigned issue [#11](https://github.com/zengsipei/z-cc-plugin/issues/11) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
-5. 🔒 Closed issue [#10](https://github.com/zengsipei/z-cc-plugin/issues/10) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
-6. 🔒 Assigned issue [#10](https://github.com/zengsipei/z-cc-plugin/issues/10) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
-7. 🔒 Labeled issue [#6](https://github.com/zengsipei/ZAgent/issues/6) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-8. 🔒 Unlabeled issue [#6](https://github.com/zengsipei/ZAgent/issues/6) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-9. 🔒 Labeled issue [#7](https://github.com/zengsipei/ZAgent/issues/7) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-10. 🔒 Unlabeled issue [#7](https://github.com/zengsipei/ZAgent/issues/7) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+1. ⭐ Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+2. 🔒 Closed issue [#11](https://github.com/zengsipei/z-cc-plugin/issues/11) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+3. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
+4. 🔒 Closed issue [#5](https://github.com/zengsipei/z-cc-plugin/issues/5) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+5. 🔒 Assigned issue [#11](https://github.com/zengsipei/z-cc-plugin/issues/11) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+6. 🔒 Closed issue [#10](https://github.com/zengsipei/z-cc-plugin/issues/10) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+7. 🔒 Assigned issue [#10](https://github.com/zengsipei/z-cc-plugin/issues/10) in [zengsipei/z-cc-plugin](https://github.com/zengsipei/z-cc-plugin)
+8. 🔒 Labeled issue [#6](https://github.com/zengsipei/ZAgent/issues/6) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+9. 🔒 Unlabeled issue [#6](https://github.com/zengsipei/ZAgent/issues/6) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+10. 🔒 Labeled issue [#7](https://github.com/zengsipei/ZAgent/issues/7) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
 <!--END_SECTION:activity-->
 
 ---
