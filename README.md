@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/zengsipei/ZAgent/issues/17) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-2. 🎉 Created branch in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-3. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-4. 🔒 Assigned issue [#17](https://github.com/zengsipei/ZAgent/issues/17) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-5. 🔒 Closed issue [#16](https://github.com/zengsipei/ZAgent/issues/16) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-6. 🔒 Assigned issue [#16](https://github.com/zengsipei/ZAgent/issues/16) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-7. 🔒 Closed issue [#12](https://github.com/zengsipei/ZAgent/issues/12) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-8. 🔒 Closed issue [#14](https://github.com/zengsipei/ZAgent/issues/14) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-9. 🔒 Labeled issue [#20](https://github.com/zengsipei/ZAgent/issues/20) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-10. ❗ Opened issue [#20](https://github.com/zengsipei/ZAgent/issues/20) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+1. 🔒 Labeled issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+2. ❗ Opened issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+3. ⭐ Starred [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall)
+4. 🔒 Assigned issue [#18](https://github.com/zengsipei/ZAgent/issues/18) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+5. 🔒 Closed issue [#17](https://github.com/zengsipei/ZAgent/issues/17) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+6. 🎉 Created branch in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+7. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+8. 🔒 Assigned issue [#17](https://github.com/zengsipei/ZAgent/issues/17) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+9. 🔒 Closed issue [#16](https://github.com/zengsipei/ZAgent/issues/16) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+10. 🔒 Assigned issue [#16](https://github.com/zengsipei/ZAgent/issues/16) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
 <!--END_SECTION:activity-->
 
 ---
