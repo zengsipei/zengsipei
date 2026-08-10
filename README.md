@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [CaicoLeung/aic](https://github.com/CaicoLeung/aic)
-2. ⭐ Starred [t59688/novel-kit](https://github.com/t59688/novel-kit)
-3. ⭐ Starred [t59688/arboris-novel](https://github.com/t59688/arboris-novel)
-4. 🔒 Labeled issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-5. ❗ Opened issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-6. ⭐ Starred [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall)
-7. 🔒 Assigned issue [#18](https://github.com/zengsipei/ZAgent/issues/18) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-8. 🔒 Closed issue [#17](https://github.com/zengsipei/ZAgent/issues/17) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-9. 🎉 Created branch in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-10. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+1. ⭐ Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
+2. ⭐ Starred [CaicoLeung/aic](https://github.com/CaicoLeung/aic)
+3. ⭐ Starred [t59688/novel-kit](https://github.com/t59688/novel-kit)
+4. ⭐ Starred [t59688/arboris-novel](https://github.com/t59688/arboris-novel)
+5. 🔒 Labeled issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+6. ❗ Opened issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+7. ⭐ Starred [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall)
+8. 🔒 Assigned issue [#18](https://github.com/zengsipei/ZAgent/issues/18) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+9. 🔒 Closed issue [#17](https://github.com/zengsipei/ZAgent/issues/17) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+10. 🎉 Created branch in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
 <!--END_SECTION:activity-->
 
 ---
