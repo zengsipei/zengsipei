@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)
-2. ⭐ Starred [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
-3. ⭐ Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
-4. ⭐ Starred [CaicoLeung/aic](https://github.com/CaicoLeung/aic)
-5. ⭐ Starred [t59688/novel-kit](https://github.com/t59688/novel-kit)
-6. ⭐ Starred [t59688/arboris-novel](https://github.com/t59688/arboris-novel)
-7. 🔒 Labeled issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-8. ❗ Opened issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-9. ⭐ Starred [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall)
-10. 🔒 Assigned issue [#18](https://github.com/zengsipei/ZAgent/issues/18) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+1. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+2. ⭐ Starred [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)
+3. ⭐ Starred [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
+4. ⭐ Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
+5. ⭐ Starred [CaicoLeung/aic](https://github.com/CaicoLeung/aic)
+6. ⭐ Starred [t59688/novel-kit](https://github.com/t59688/novel-kit)
+7. ⭐ Starred [t59688/arboris-novel](https://github.com/t59688/arboris-novel)
+8. 🔒 Labeled issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+9. ❗ Opened issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+10. ⭐ Starred [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall)
 <!--END_SECTION:activity-->
 
 ---
