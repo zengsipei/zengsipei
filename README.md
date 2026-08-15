@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-2. ⭐ Starred [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)
-3. ⭐ Starred [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
-4. ⭐ Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
-5. ⭐ Starred [CaicoLeung/aic](https://github.com/CaicoLeung/aic)
-6. ⭐ Starred [t59688/novel-kit](https://github.com/t59688/novel-kit)
-7. ⭐ Starred [t59688/arboris-novel](https://github.com/t59688/arboris-novel)
-8. 🔒 Labeled issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-9. ❗ Opened issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-10. ⭐ Starred [zszz3/AgentRecall](https://github.com/zszz3/AgentRecall)
+1. 🍴 Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+2. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+3. ⭐ Starred [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)
+4. ⭐ Starred [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
+5. ⭐ Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
+6. ⭐ Starred [CaicoLeung/aic](https://github.com/CaicoLeung/aic)
+7. ⭐ Starred [t59688/novel-kit](https://github.com/t59688/novel-kit)
+8. ⭐ Starred [t59688/arboris-novel](https://github.com/t59688/arboris-novel)
+9. 🔒 Labeled issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+10. ❗ Opened issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
 <!--END_SECTION:activity-->
 
 ---
