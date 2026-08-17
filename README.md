@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🍴 Forked [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-2. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-3. ⭐ Starred [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)
-4. ⭐ Starred [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI)
-5. ⭐ Starred [QoderAI/better-harness](https://github.com/QoderAI/better-harness)
-6. ⭐ Starred [CaicoLeung/aic](https://github.com/CaicoLeung/aic)
-7. ⭐ Starred [t59688/novel-kit](https://github.com/t59688/novel-kit)
-8. ⭐ Starred [t59688/arboris-novel](https://github.com/t59688/arboris-novel)
-9. 🔒 Labeled issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
-10. ❗ Opened issue [#21](https://github.com/zengsipei/ZAgent/issues/21) in [zengsipei/ZAgent](https://github.com/zengsipei/ZAgent)
+1. 🎉 Created branch in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+2. 🔒 Assigned issue [#3](https://github.com/zengsipei/deepseek-harness/issues/3) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+3. 🔒 Closed issue [#5](https://github.com/zengsipei/deepseek-harness/issues/5) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+4. 🎉 Created branch in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+5. 🔒 Assigned issue [#5](https://github.com/zengsipei/deepseek-harness/issues/5) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+6. 🔒 Labeled issue [#13](https://github.com/zengsipei/deepseek-harness/issues/13) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+7. ❗ Opened issue [#13](https://github.com/zengsipei/deepseek-harness/issues/13) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+8. 🔒 Labeled issue [#12](https://github.com/zengsipei/deepseek-harness/issues/12) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+9. ❗ Opened issue [#12](https://github.com/zengsipei/deepseek-harness/issues/12) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+10. 🔒 Closed issue [#2](https://github.com/zengsipei/deepseek-harness/issues/2) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
 <!--END_SECTION:activity-->
 
 ---
