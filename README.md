@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#19](https://github.com/zengsipei/deepseek-harness/issues/19) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-2. ❗ Opened issue [#19](https://github.com/zengsipei/deepseek-harness/issues/19) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-3. 🔒 Closed issue [#8](https://github.com/zengsipei/deepseek-harness/issues/8) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-4. 🔒 Assigned issue [#8](https://github.com/zengsipei/deepseek-harness/issues/8) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-5. 🔒 Labeled issue [#18](https://github.com/zengsipei/deepseek-harness/issues/18) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-6. ❗ Opened issue [#18](https://github.com/zengsipei/deepseek-harness/issues/18) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-7. 🔒 Closed issue [#15](https://github.com/zengsipei/deepseek-harness/issues/15) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-8. 🔒 Assigned issue [#15](https://github.com/zengsipei/deepseek-harness/issues/15) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-9. 🔒 Labeled issue [#17](https://github.com/zengsipei/deepseek-harness/issues/17) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-10. ❗ Opened issue [#17](https://github.com/zengsipei/deepseek-harness/issues/17) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+1. 🔒 Assigned issue [#19](https://github.com/zengsipei/deepseek-harness/issues/19) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+2. 🔒 Closed issue [#18](https://github.com/zengsipei/deepseek-harness/issues/18) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+3. 🔒 Assigned issue [#18](https://github.com/zengsipei/deepseek-harness/issues/18) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+4. 🔒 Closed issue [#17](https://github.com/zengsipei/deepseek-harness/issues/17) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+5. 🔒 Assigned issue [#17](https://github.com/zengsipei/deepseek-harness/issues/17) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+6. 🔒 Closed issue [#9](https://github.com/zengsipei/deepseek-harness/issues/9) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+7. 🔒 Assigned issue [#9](https://github.com/zengsipei/deepseek-harness/issues/9) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+8. 🔒 Closed issue [#16](https://github.com/zengsipei/deepseek-harness/issues/16) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+9. 🔒 Assigned issue [#16](https://github.com/zengsipei/deepseek-harness/issues/16) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+10. 🔒 Closed issue [#14](https://github.com/zengsipei/deepseek-harness/issues/14) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
 <!--END_SECTION:activity-->
 
 ---
