@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Assigned issue [#19](https://github.com/zengsipei/deepseek-harness/issues/19) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-2. 🔒 Closed issue [#18](https://github.com/zengsipei/deepseek-harness/issues/18) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-3. 🔒 Assigned issue [#18](https://github.com/zengsipei/deepseek-harness/issues/18) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-4. 🔒 Closed issue [#17](https://github.com/zengsipei/deepseek-harness/issues/17) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-5. 🔒 Assigned issue [#17](https://github.com/zengsipei/deepseek-harness/issues/17) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-6. 🔒 Closed issue [#9](https://github.com/zengsipei/deepseek-harness/issues/9) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-7. 🔒 Assigned issue [#9](https://github.com/zengsipei/deepseek-harness/issues/9) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-8. 🔒 Closed issue [#16](https://github.com/zengsipei/deepseek-harness/issues/16) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-9. 🔒 Assigned issue [#16](https://github.com/zengsipei/deepseek-harness/issues/16) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
-10. 🔒 Closed issue [#14](https://github.com/zengsipei/deepseek-harness/issues/14) in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+1. 🔒 Closed issue [#2](https://github.com/zengsipei/dsh-workbench/issues/2) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+2. 🎉 Created branch in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+3. 🎉 Created branch in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+4. 🎉 Created branch in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+5. 🎉 Created branch in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+6. ❗ Opened issue [#18](https://github.com/zengsipei/dsh-workbench/issues/18) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+7. 🔒 Labeled issue [#18](https://github.com/zengsipei/dsh-workbench/issues/18) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+8. ❗ Opened issue [#17](https://github.com/zengsipei/dsh-workbench/issues/17) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+9. 🔒 Labeled issue [#17](https://github.com/zengsipei/dsh-workbench/issues/17) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+10. 🔒 Labeled issue [#16](https://github.com/zengsipei/dsh-workbench/issues/16) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
 <!--END_SECTION:activity-->
 
 ---
