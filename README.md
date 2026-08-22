@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/zengsipei/dsh-workbench/issues/8) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-2. 🔒 Closed issue [#7](https://github.com/zengsipei/dsh-workbench/issues/7) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-3. 🔒 Closed issue [#6](https://github.com/zengsipei/dsh-workbench/issues/6) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-4. 🔒 Closed issue [#5](https://github.com/zengsipei/dsh-workbench/issues/5) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-5. 🔒 Closed issue [#4](https://github.com/zengsipei/dsh-workbench/issues/4) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-6. 🔒 Closed issue [#3](https://github.com/zengsipei/dsh-workbench/issues/3) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-7. 🔒 Closed issue [#2](https://github.com/zengsipei/dsh-workbench/issues/2) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-8. 🎉 Created branch in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+1. ⭐ Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
+2. 🔒 Closed issue [#8](https://github.com/zengsipei/dsh-workbench/issues/8) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+3. 🔒 Closed issue [#7](https://github.com/zengsipei/dsh-workbench/issues/7) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+4. 🔒 Closed issue [#6](https://github.com/zengsipei/dsh-workbench/issues/6) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+5. 🔒 Closed issue [#5](https://github.com/zengsipei/dsh-workbench/issues/5) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+6. 🔒 Closed issue [#4](https://github.com/zengsipei/dsh-workbench/issues/4) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+7. 🔒 Closed issue [#3](https://github.com/zengsipei/dsh-workbench/issues/3) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+8. 🔒 Closed issue [#2](https://github.com/zengsipei/dsh-workbench/issues/2) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
 9. 🎉 Created branch in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-10. 🎉 Created branch in [zengsipei/deepseek-harness](https://github.com/zengsipei/deepseek-harness)
+10. 🎉 Created branch in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
 <!--END_SECTION:activity-->
 
 ---
