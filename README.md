@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#15](https://github.com/zengsipei/dsh-workbench/issues/15) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-2. 🔒 Closed issue [#14](https://github.com/zengsipei/dsh-workbench/issues/14) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-3. 🔒 Closed issue [#17](https://github.com/zengsipei/dsh-workbench/issues/17) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-4. 🔒 Closed issue [#16](https://github.com/zengsipei/dsh-workbench/issues/16) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-5. 🔒 Closed issue [#13](https://github.com/zengsipei/dsh-workbench/issues/13) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-6. 🔒 Closed issue [#9](https://github.com/zengsipei/dsh-workbench/issues/9) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-7. 🔒 Closed issue [#12](https://github.com/zengsipei/dsh-workbench/issues/12) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-8. ⭐ Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
-9. 🔒 Closed issue [#8](https://github.com/zengsipei/dsh-workbench/issues/8) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
-10. 🔒 Closed issue [#7](https://github.com/zengsipei/dsh-workbench/issues/7) in [zengsipei/dsh-workbench](https://github.com/zengsipei/dsh-workbench)
+1. 🔒 Closed issue [#16](https://github.com/zengsipei/z-claude-plugins/issues/16) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+2. 🔒 Assigned issue [#16](https://github.com/zengsipei/z-claude-plugins/issues/16) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+3. 🔒 Closed issue [#14](https://github.com/zengsipei/z-claude-plugins/issues/14) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+4. 🔒 Closed issue [#15](https://github.com/zengsipei/z-claude-plugins/issues/15) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+5. 🔒 Closed issue [#13](https://github.com/zengsipei/z-claude-plugins/issues/13) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+6. 🔒 Labeled issue [#21](https://github.com/zengsipei/z-claude-plugins/issues/21) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+7. ❗ Opened issue [#21](https://github.com/zengsipei/z-claude-plugins/issues/21) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+8. 🔒 Labeled issue [#20](https://github.com/zengsipei/z-claude-plugins/issues/20) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+9. ❗ Opened issue [#20](https://github.com/zengsipei/z-claude-plugins/issues/20) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+10. 🔒 Labeled issue [#19](https://github.com/zengsipei/z-claude-plugins/issues/19) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
 <!--END_SECTION:activity-->
 
 ---
