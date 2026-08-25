@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/zengsipei/z-claude-plugins/issues/16) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-2. 🔒 Assigned issue [#16](https://github.com/zengsipei/z-claude-plugins/issues/16) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-3. 🔒 Closed issue [#14](https://github.com/zengsipei/z-claude-plugins/issues/14) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-4. 🔒 Closed issue [#15](https://github.com/zengsipei/z-claude-plugins/issues/15) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-5. 🔒 Closed issue [#13](https://github.com/zengsipei/z-claude-plugins/issues/13) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-6. 🔒 Labeled issue [#21](https://github.com/zengsipei/z-claude-plugins/issues/21) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-7. ❗ Opened issue [#21](https://github.com/zengsipei/z-claude-plugins/issues/21) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-8. 🔒 Labeled issue [#20](https://github.com/zengsipei/z-claude-plugins/issues/20) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-9. ❗ Opened issue [#20](https://github.com/zengsipei/z-claude-plugins/issues/20) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-10. 🔒 Labeled issue [#19](https://github.com/zengsipei/z-claude-plugins/issues/19) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+1. ⭐ Starred [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng)
+2. 🔒 Closed issue [#16](https://github.com/zengsipei/z-claude-plugins/issues/16) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+3. 🔒 Assigned issue [#16](https://github.com/zengsipei/z-claude-plugins/issues/16) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+4. 🔒 Closed issue [#14](https://github.com/zengsipei/z-claude-plugins/issues/14) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+5. 🔒 Closed issue [#15](https://github.com/zengsipei/z-claude-plugins/issues/15) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+6. 🔒 Closed issue [#13](https://github.com/zengsipei/z-claude-plugins/issues/13) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+7. 🔒 Labeled issue [#21](https://github.com/zengsipei/z-claude-plugins/issues/21) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+8. ❗ Opened issue [#21](https://github.com/zengsipei/z-claude-plugins/issues/21) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+9. 🔒 Labeled issue [#20](https://github.com/zengsipei/z-claude-plugins/issues/20) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+10. ❗ Opened issue [#20](https://github.com/zengsipei/z-claude-plugins/issues/20) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
 <!--END_SECTION:activity-->
 
 ---
