@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
-2. ⭐ Starred [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)
-3. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
-4. ⭐ Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-5. ⭐ Starred [tutti-os/tutti](https://github.com/tutti-os/tutti)
-6. 🔒 Closed issue [#63](https://github.com/zengsipei/z-claude-plugins/issues/63) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-7. 🎉 Created branch in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-8. 🔒 Closed issue [#62](https://github.com/zengsipei/z-claude-plugins/issues/62) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-9. ❗ Opened issue [#63](https://github.com/zengsipei/z-claude-plugins/issues/63) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-10. ❗ Opened issue [#61](https://github.com/zengsipei/z-claude-plugins/issues/61) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+1. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
+2. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
+3. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+4. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
+5. ⭐ Starred [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)
+6. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+7. ⭐ Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+8. ⭐ Starred [tutti-os/tutti](https://github.com/tutti-os/tutti)
+9. 🔒 Closed issue [#63](https://github.com/zengsipei/z-claude-plugins/issues/63) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+10. 🎉 Created branch in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
 <!--END_SECTION:activity-->
 
 ---
