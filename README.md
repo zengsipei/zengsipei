@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
-2. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
-3. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
-4. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-5. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
-6. ⭐ Starred [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)
-7. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
-8. ⭐ Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-9. ⭐ Starred [tutti-os/tutti](https://github.com/tutti-os/tutti)
-10. 🔒 Closed issue [#63](https://github.com/zengsipei/z-claude-plugins/issues/63) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+1. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+2. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
+3. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
+4. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
+5. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+6. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
+7. ⭐ Starred [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)
+8. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+9. ⭐ Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+10. ⭐ Starred [tutti-os/tutti](https://github.com/tutti-os/tutti)
 <!--END_SECTION:activity-->
 
 ---
