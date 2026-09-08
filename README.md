@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
-2. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
-3. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
-4. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
-5. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-6. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
-7. ⭐ Starred [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)
-8. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
-9. ⭐ Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-10. ⭐ Starred [tutti-os/tutti](https://github.com/tutti-os/tutti)
+1. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
+2. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
+3. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+4. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
+5. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
+6. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
+7. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+8. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
+9. ⭐ Starred [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)
+10. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
 <!--END_SECTION:activity-->
 
 ---
