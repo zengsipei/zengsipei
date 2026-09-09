@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
-2. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
-3. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
-4. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
-5. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
-6. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
-7. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-8. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
-9. ⭐ Starred [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)
-10. ⭐ Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+1. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
+2. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
+3. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
+4. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+5. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
+6. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
+7. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
+8. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+9. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
+10. ⭐ Starred [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills)
 <!--END_SECTION:activity-->
 
 ---
