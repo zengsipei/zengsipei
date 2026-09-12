@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
-2. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
-3. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
-4. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
-5. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
-6. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
-7. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
-8. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
-9. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-10. ⭐ Starred [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register)
+1. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+2. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
+3. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
+4. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
+5. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
+6. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+7. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
+8. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
+9. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
+10. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
 <!--END_SECTION:activity-->
 
 ---
