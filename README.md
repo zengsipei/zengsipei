@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-2. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
-3. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
-4. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
-5. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
-6. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
-7. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
-8. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
-9. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
-10. ⭐ Starred [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+1. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
+2. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+3. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
+4. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
+5. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
+6. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
+7. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+8. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
+9. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
+10. ⭐ Starred [moon09300731/dsh-approval-gate](https://github.com/moon09300731/dsh-approval-gate)
 <!--END_SECTION:activity-->
 
 ---
