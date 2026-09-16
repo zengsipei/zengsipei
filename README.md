@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
-2. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
-3. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-4. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
-5. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
-6. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
-7. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
-8. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
-9. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
-10. ⭐ Starred [liustack/modsearch](https://github.com/liustack/modsearch)
+1. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
+2. ⭐ Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+3. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
+4. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+5. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
+6. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
+7. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
+8. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
+9. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+10. ⭐ Starred [Fisfzy/dsh-ego-browser](https://github.com/Fisfzy/dsh-ego-browser)
 <!--END_SECTION:activity-->
 
 ---
