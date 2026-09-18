@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [ngo5/IPTV](https://github.com/ngo5/IPTV)
-2. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
-3. ⭐ Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
-4. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
-5. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-6. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
-7. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
-8. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
-9. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
-10. ⭐ Starred [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+1. ⭐ Starred [oceanbase/powercontext](https://github.com/oceanbase/powercontext)
+2. ⭐ Starred [ngo5/IPTV](https://github.com/ngo5/IPTV)
+3. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
+4. ⭐ Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+5. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
+6. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+7. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
+8. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
+9. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
+10. 🔒 Closed issue [#27](https://github.com/uileader/touchwx/issues/27) in [uileader/touchwx](https://github.com/uileader/touchwx)
 <!--END_SECTION:activity-->
 
 ---
