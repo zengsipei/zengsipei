@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Created branch in [zengsipei/llm-gateway](https://github.com/zengsipei/llm-gateway)
-2. ⭐ Starred [oceanbase/powercontext](https://github.com/oceanbase/powercontext)
-3. ⭐ Starred [ngo5/IPTV](https://github.com/ngo5/IPTV)
-4. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
-5. ⭐ Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
-6. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
-7. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-8. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
-9. ⭐ Starred [akfamily/akshare](https://github.com/akfamily/akshare)
-10. ⭐ Starred [browser-act/skills](https://github.com/browser-act/skills)
+1. ⭐ Starred [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
+2. ⭐ Starred [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+3. 🎉 Created branch in [zengsipei/llm-gateway](https://github.com/zengsipei/llm-gateway)
+4. ⭐ Starred [oceanbase/powercontext](https://github.com/oceanbase/powercontext)
+5. ⭐ Starred [ngo5/IPTV](https://github.com/ngo5/IPTV)
+6. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
+7. ⭐ Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+8. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
+9. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+10. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
 <!--END_SECTION:activity-->
 
 ---
