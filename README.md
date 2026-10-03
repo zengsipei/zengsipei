@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
-2. ⭐ Starred [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-3. 🎉 Created branch in [zengsipei/llm-gateway](https://github.com/zengsipei/llm-gateway)
-4. ⭐ Starred [oceanbase/powercontext](https://github.com/oceanbase/powercontext)
-5. ⭐ Starred [ngo5/IPTV](https://github.com/ngo5/IPTV)
-6. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
-7. ⭐ Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
-8. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
-9. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-10. ⭐ Starred [DevnorsAI/devnors-data-mcp](https://github.com/DevnorsAI/devnors-data-mcp)
+1. ⭐ Starred [inclusionAI/Ming-Image](https://github.com/inclusionAI/Ming-Image)
+2. ⭐ Starred [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
+3. ⭐ Starred [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+4. 🎉 Created branch in [zengsipei/llm-gateway](https://github.com/zengsipei/llm-gateway)
+5. ⭐ Starred [oceanbase/powercontext](https://github.com/oceanbase/powercontext)
+6. ⭐ Starred [ngo5/IPTV](https://github.com/ngo5/IPTV)
+7. ⭐ Starred [hypit-ai/hypit](https://github.com/hypit-ai/hypit)
+8. ⭐ Starred [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S)
+9. ⭐ Starred [zhishile/codex-auth-helper](https://github.com/zhishile/codex-auth-helper)
+10. ⭐ Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
 <!--END_SECTION:activity-->
 
 ---
