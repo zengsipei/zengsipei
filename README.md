@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
-2. ⭐ Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
-3. ⭐ Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
-4. ⭐ Starred [1314521gjy/ninfer-fusion-kvmem](https://github.com/1314521gjy/ninfer-fusion-kvmem)
-5. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
-6. ⭐ Starred [inclusionAI/Ming-Image](https://github.com/inclusionAI/Ming-Image)
-7. ⭐ Starred [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
-8. ⭐ Starred [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
-9. 🎉 Created branch in [zengsipei/llm-gateway](https://github.com/zengsipei/llm-gateway)
-10. ⭐ Starred [oceanbase/powercontext](https://github.com/oceanbase/powercontext)
+1. ⭐ Starred [yetone/magpie](https://github.com/yetone/magpie)
+2. ⭐ Starred [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
+3. ⭐ Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
+4. ⭐ Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
+5. ⭐ Starred [1314521gjy/ninfer-fusion-kvmem](https://github.com/1314521gjy/ninfer-fusion-kvmem)
+6. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+7. ⭐ Starred [inclusionAI/Ming-Image](https://github.com/inclusionAI/Ming-Image)
+8. ⭐ Starred [thedjchi/Shizuku](https://github.com/thedjchi/Shizuku)
+9. ⭐ Starred [gkd-kit/gkd](https://github.com/gkd-kit/gkd)
+10. 🎉 Created branch in [zengsipei/llm-gateway](https://github.com/zengsipei/llm-gateway)
 <!--END_SECTION:activity-->
 
 ---
