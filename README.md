@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Created branch in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-2. 🔀 Merged PR [#64](https://github.com/zengsipei/z-claude-plugins/pull/64) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-3. 🔀 Opened PR [#64](https://github.com/zengsipei/z-claude-plugins/pull/64) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-4. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)
-5. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)
-6. ⭐ Starred [yetone/magpie](https://github.com/yetone/magpie)
-7. ⭐ Starred [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
-8. ⭐ Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
-9. ⭐ Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
-10. ⭐ Starred [1314521gjy/ninfer-fusion-kvmem](https://github.com/1314521gjy/ninfer-fusion-kvmem)
+1. ⭐ Starred [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
+2. ⭐ Starred [leookun/cursor-byok](https://github.com/leookun/cursor-byok)
+3. 🎉 Created branch in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+4. 🔀 Merged PR [#64](https://github.com/zengsipei/z-claude-plugins/pull/64) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+5. 🔀 Opened PR [#64](https://github.com/zengsipei/z-claude-plugins/pull/64) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+6. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+7. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)
+8. ⭐ Starred [yetone/magpie](https://github.com/yetone/magpie)
+9. ⭐ Starred [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo)
+10. ⭐ Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
 <!--END_SECTION:activity-->
 
 ---
