@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-2. ⭐ Starred [songkeys/kimi-computer-use](https://github.com/songkeys/kimi-computer-use)
-3. ⭐ Starred [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
-4. ⭐ Starred [leookun/cursor-byok](https://github.com/leookun/cursor-byok)
-5. 🎉 Created branch in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-6. 🔀 Merged PR [#64](https://github.com/zengsipei/z-claude-plugins/pull/64) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-7. 🔀 Opened PR [#64](https://github.com/zengsipei/z-claude-plugins/pull/64) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-8. ⭐ Starred [earendil-works/pi](https://github.com/earendil-works/pi)
-9. ⭐ Starred [cursor/plugins](https://github.com/cursor/plugins)
-10. ⭐ Starred [yetone/magpie](https://github.com/yetone/magpie)
+1. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
+2. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+3. ⭐ Starred [aa2246740/pstack-dsh](https://github.com/aa2246740/pstack-dsh)
+4. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+5. ⭐ Starred [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+6. ⭐ Starred [songkeys/kimi-computer-use](https://github.com/songkeys/kimi-computer-use)
+7. ⭐ Starred [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
+8. ⭐ Starred [leookun/cursor-byok](https://github.com/leookun/cursor-byok)
+9. 🎉 Created branch in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+10. 🔀 Merged PR [#64](https://github.com/zengsipei/z-claude-plugins/pull/64) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
 <!--END_SECTION:activity-->
 
 ---
