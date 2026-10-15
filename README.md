@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
-2. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
-3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-4. ⭐ Starred [aa2246740/pstack-dsh](https://github.com/aa2246740/pstack-dsh)
-5. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-6. ⭐ Starred [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-7. ⭐ Starred [songkeys/kimi-computer-use](https://github.com/songkeys/kimi-computer-use)
-8. ⭐ Starred [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
-9. ⭐ Starred [leookun/cursor-byok](https://github.com/leookun/cursor-byok)
-10. 🎉 Created branch in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+1. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+2. ⭐ Starred [BDisp/unlocker](https://github.com/BDisp/unlocker)
+3. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
+4. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
+5. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+6. ⭐ Starred [aa2246740/pstack-dsh](https://github.com/aa2246740/pstack-dsh)
+7. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+8. ⭐ Starred [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+9. ⭐ Starred [songkeys/kimi-computer-use](https://github.com/songkeys/kimi-computer-use)
+10. ⭐ Starred [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
 <!--END_SECTION:activity-->
 
 ---
