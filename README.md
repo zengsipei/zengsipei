@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
-2. ⭐ Starred [BDisp/unlocker](https://github.com/BDisp/unlocker)
-3. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
-4. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
-5. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-6. ⭐ Starred [aa2246740/pstack-dsh](https://github.com/aa2246740/pstack-dsh)
-7. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-8. ⭐ Starred [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-9. ⭐ Starred [songkeys/kimi-computer-use](https://github.com/songkeys/kimi-computer-use)
-10. ⭐ Starred [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
+1. ⭐ Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
+2. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+3. ⭐ Starred [BDisp/unlocker](https://github.com/BDisp/unlocker)
+4. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
+5. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
+6. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+7. ⭐ Starred [aa2246740/pstack-dsh](https://github.com/aa2246740/pstack-dsh)
+8. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+9. ⭐ Starred [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+10. ⭐ Starred [songkeys/kimi-computer-use](https://github.com/songkeys/kimi-computer-use)
 <!--END_SECTION:activity-->
 
 ---
