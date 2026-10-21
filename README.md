@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
-2. ⭐ Starred [SkillNerds/xskill](https://github.com/SkillNerds/xskill)
-3. ⭐ Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
-4. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
-5. ⭐ Starred [BDisp/unlocker](https://github.com/BDisp/unlocker)
-6. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
-7. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
-8. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
-9. ⭐ Starred [aa2246740/pstack-dsh](https://github.com/aa2246740/pstack-dsh)
-10. ⭐ Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. ⭐ Starred [justrach/codedb](https://github.com/justrach/codedb)
+2. ⭐ Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+3. ⭐ Starred [SkillNerds/xskill](https://github.com/SkillNerds/xskill)
+4. ⭐ Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
+5. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+6. ⭐ Starred [BDisp/unlocker](https://github.com/BDisp/unlocker)
+7. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
+8. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
+9. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+10. ⭐ Starred [aa2246740/pstack-dsh](https://github.com/aa2246740/pstack-dsh)
 <!--END_SECTION:activity-->
 
 ---
