@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
-2. ⭐ Starred [justrach/codedb](https://github.com/justrach/codedb)
-3. ⭐ Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
-4. ⭐ Starred [SkillNerds/xskill](https://github.com/SkillNerds/xskill)
-5. ⭐ Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
-6. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
-7. ⭐ Starred [BDisp/unlocker](https://github.com/BDisp/unlocker)
-8. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
-9. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
-10. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)
+1. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
+2. ⭐ Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
+3. ⭐ Starred [justrach/codedb](https://github.com/justrach/codedb)
+4. ⭐ Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+5. ⭐ Starred [SkillNerds/xskill](https://github.com/SkillNerds/xskill)
+6. ⭐ Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
+7. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+8. ⭐ Starred [BDisp/unlocker](https://github.com/BDisp/unlocker)
+9. ⭐ Starred [opa334/TrollStore](https://github.com/opa334/TrollStore)
+10. ⭐ Starred [opa334/Dopamine](https://github.com/opa334/Dopamine)
 <!--END_SECTION:activity-->
 
 ---
