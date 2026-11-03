@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-2. ⭐ Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-3. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-4. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
-5. ⭐ Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
-6. ⭐ Starred [justrach/codedb](https://github.com/justrach/codedb)
-7. ⭐ Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
-8. ⭐ Starred [SkillNerds/xskill](https://github.com/SkillNerds/xskill)
-9. ⭐ Starred [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)
-10. ⭐ Starred [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog)
+1. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+2. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+3. ⭐ Starred [vivaui/viva](https://github.com/vivaui/viva)
+4. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+5. ⭐ Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+6. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+7. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
+8. ⭐ Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
+9. ⭐ Starred [justrach/codedb](https://github.com/justrach/codedb)
+10. ⭐ Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
 <!--END_SECTION:activity-->
 
 ---
