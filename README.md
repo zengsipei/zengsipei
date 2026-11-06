@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
-2. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-3. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-4. ⭐ Starred [vivaui/viva](https://github.com/vivaui/viva)
-5. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-6. ⭐ Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-7. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-8. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
-9. ⭐ Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
-10. ⭐ Starred [justrach/codedb](https://github.com/justrach/codedb)
+1. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+2. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
+3. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+4. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+5. ⭐ Starred [vivaui/viva](https://github.com/vivaui/viva)
+6. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+7. ⭐ Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+8. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+9. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
+10. ⭐ Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
 <!--END_SECTION:activity-->
 
 ---
