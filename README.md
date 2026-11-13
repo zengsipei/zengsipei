@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
-2. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
-3. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-4. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-5. ⭐ Starred [vivaui/viva](https://github.com/vivaui/viva)
-6. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-7. ⭐ Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-8. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-9. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
-10. ⭐ Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
+1. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
+2. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+3. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
+4. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+5. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+6. ⭐ Starred [vivaui/viva](https://github.com/vivaui/viva)
+7. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+8. ⭐ Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+9. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+10. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
 <!--END_SECTION:activity-->
 
 ---
