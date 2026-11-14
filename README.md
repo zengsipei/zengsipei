@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
-2. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
-3. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
-4. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-5. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-6. ⭐ Starred [vivaui/viva](https://github.com/vivaui/viva)
-7. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-8. ⭐ Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-9. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-10. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)
+1. ⭐ Starred [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek)
+2. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
+3. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+4. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
+5. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+6. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+7. ⭐ Starred [vivaui/viva](https://github.com/vivaui/viva)
+8. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+9. ⭐ Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+10. ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
 <!--END_SECTION:activity-->
 
 ---
