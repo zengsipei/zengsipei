@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🎉 Created branch in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
-2. ⭐ Starred [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
-3. ⭐ Starred [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek)
-4. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
-5. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
-6. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
-7. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-8. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-9. ⭐ Starred [vivaui/viva](https://github.com/vivaui/viva)
-10. ⭐ Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+1. 🔀 Merged PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+2. 🔀 Opened PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+3. 🎉 Created branch in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
+4. ⭐ Starred [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
+5. ⭐ Starred [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek)
+6. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
+7. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+8. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
+9. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+10. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
 <!--END_SECTION:activity-->
 
 ---
