@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
-2. 🔀 Opened PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
-3. 🎉 Created branch in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
-4. ⭐ Starred [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
-5. ⭐ Starred [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek)
-6. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
-7. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
-8. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
-9. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
-10. ❗ Opened issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
+1. 🎉 Created branch in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+2. 🔀 Merged PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+3. 🔀 Opened PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+4. 🎉 Created branch in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
+5. ⭐ Starred [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
+6. ⭐ Starred [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek)
+7. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
+8. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+9. ⭐ Starred [elie222/rakazo](https://github.com/elie222/rakazo)
+10. 🔒 Labeled issue [#65](https://github.com/zengsipei/z-claude-plugins/issues/65) in [zengsipei/z-claude-plugins](https://github.com/zengsipei/z-claude-plugins)
 <!--END_SECTION:activity-->
 
 ---
