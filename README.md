@@ -24,16 +24,16 @@
 ### ⚡ 最近动态
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged PR [#2](https://github.com/zengsipei/z-workflow/pull/2) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
-2. 🔀 Opened PR [#2](https://github.com/zengsipei/z-workflow/pull/2) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
-3. 🎉 Created branch in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
-4. 🔀 Merged PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
-5. 🔀 Opened PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
-6. 🎉 Created branch in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
-7. ⭐ Starred [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
-8. ⭐ Starred [czm15053/write-notes-like-deepseek](https://github.com/czm15053/write-notes-like-deepseek)
-9. ⭐ Starred [a2aproject/A2A](https://github.com/a2aproject/A2A)
-10. ⭐ Starred [mvschwarz/openrig](https://github.com/mvschwarz/openrig)
+1. 🔒 Closed issue [#1](https://github.com/zengsipei/quiet-space/issues/1) in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
+2. 🔒 Labeled issue [#1](https://github.com/zengsipei/quiet-space/issues/1) in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
+3. ❗ Opened issue [#1](https://github.com/zengsipei/quiet-space/issues/1) in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
+4. 🔀 Merged PR [#2](https://github.com/zengsipei/z-workflow/pull/2) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+5. 🔀 Opened PR [#2](https://github.com/zengsipei/z-workflow/pull/2) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+6. 🎉 Created branch in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+7. 🔀 Merged PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+8. 🔀 Opened PR [#1](https://github.com/zengsipei/z-workflow/pull/1) in [zengsipei/z-workflow](https://github.com/zengsipei/z-workflow)
+9. 🎉 Created branch in [zengsipei/quiet-space](https://github.com/zengsipei/quiet-space)
+10. ⭐ Starred [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)
 <!--END_SECTION:activity-->
 
 ---
